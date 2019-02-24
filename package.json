@@ -1,0 +1,16 @@
+{
+  "name": "bat-bot",
+  "version": "1.0.0",
+  "description": "a bot that is used to do whatever I tell it",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "googleapis": "^37.2.0",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.29.1"
+  }
+}
